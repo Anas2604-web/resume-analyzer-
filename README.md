@@ -21,12 +21,10 @@ An **AI-powered web app** that analyzes resumes, provides **ATS (Applicant Track
 | **Frontend** | React.js, React Router |
 | **AI & Logic** | Puter.js (AI Integration) |
 | **Styling** | Tailwind CSS |
-| **State Management** | React Hooks & Context API |
+| **State Management** | Zustand |
 | **Deployment** | Vercel |
 
 ---
-
-## 📸 Preview
 
 > Analyze your resume, view your ATS score, and get AI-generated feedback instantly!
 
